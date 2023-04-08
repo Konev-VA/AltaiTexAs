@@ -1,0 +1,17 @@
+.button-in-corner {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 10%;
+    background: rgba(63, 63, 63, 0.8) !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+    padding: 0%;
+    width: 120px;
+    height: 70px;
+
+}
+
+.button-in-corner:hover {
+    background: rgba(63, 63, 63, 1) !important;
+    border-color: rgba(0, 0, 0, 1) !important;
+}
